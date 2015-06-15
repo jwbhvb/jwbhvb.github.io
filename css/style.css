@@ -142,6 +142,7 @@ nav .bg_bottom{
 }
 
 #main-content{
+  background-image: url("images/cboard.jpg");
 	float:right;
 	width:670px;
 }
